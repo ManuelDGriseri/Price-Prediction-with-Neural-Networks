@@ -1,1 +1,2 @@
 # Price-Prediction-with-Neural-Networks
+Analysis of the 2019 paper "Choice of the Number of Hidden Layers for Back Propagation Neural Network Driven by Stock Price Data and Application to Price Prediction", authored by Peipei Zhang (School of Data and Computer Science, Shandong Women’s University, Jinan, P.R. China) and Chuanhe Shen (Institute of Financial Engineering, Shandong Women’s University, Jinan, P.R. China).
